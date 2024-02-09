@@ -18,6 +18,50 @@
     folder, node_modules, tsconfig.json and tsup.config.ts;
 
 
-<p class="color='red'">
-    hello my people
-</p>
+```typescript
+import {Connection} from "@solana/web3.js"
+function getman(name:string){
+    console.log(name)
+}
+getman("david")
+```
+```rust
+fn runit()->String{
+    
+}
+```
+```jsx
+export function All(){
+    return(
+    <div>
+        <p>hello, this is my new name</p>
+    </div>)
+}
+```
+```html
+<p class="color:red">color of red<p>
+```
+# h1
+## h2
+### h3
+#### h4
+##### h5
+###### h6
+here we try to write something <span style="color:red">red</span><span style="color:blue">blue</span>
+then this is heading <div style="backgroundColor: red; padding: 3px; borderRadius: 2px"><p>my heading here</p> </div>
+unordered list below
+- list 1
+- list 2
+    - sub 1
+    - sub 2
+    - sub 3
+- list 3
+- list 4
+ordered list below
+== kill the dog == very important something actually
+1. man
+2. dog
+3. mesoma
+4. God  
+learnt about this in the link below
+[checkout](https://www.markdownguide.org/cheat-sheet/)

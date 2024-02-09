@@ -1,6 +1,6 @@
 {
   "name": "type-package",
-  "version": "0.1.0",
+  "version": "0.1.5",
   "description": "this is how to set up typescript for creating npm packages",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
